@@ -1,0 +1,43 @@
+{
+  "ComponentIndexes": {},
+  "ControlUniqueIds": {
+    "App": 1,
+    "cntMain": 4,
+    "lblOne": 5,
+    "lblTwo": 6,
+    "Screen1": 3,
+    "txtOne": 7
+  },
+  "HeaderLastSavedDateTimeUTC": "04/20/2021 13:23:08",
+  "LocalDatabaseReferencesAsEmpty": false,
+  "LocalResourceRootPaths": {},
+  "OldLogoFileName": "v4gm0ztt.jpg",
+  "OrderComponentMetadata": {},
+  "OrderComponentTemplate": {},
+  "OrderDataSource": {},
+  "OrderGroupControls": {},
+  "OrderTemplate": {},
+  "OrderXMLTemplate": {
+    "label": 0,
+    "text": 1
+  },
+  "PublishOrderIndices": {
+    "App": 0,
+    "cntMain": 0,
+    "lblOne": 1,
+    "lblTwo": 2,
+    "Screen1": 0,
+    "txtOne": 3
+  },
+  "TemplateVersions": {},
+  "VolatileProperties": {
+    "AnalysisLoadTime": 0.0712239,
+    "ControlCount": {
+      "groupContainer": 1,
+      "label": 2,
+      "screen": 1,
+      "text": 1
+    },
+    "DeserializationLoadTime": 1.9296265
+  }
+}
